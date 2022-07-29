@@ -5,16 +5,27 @@ With a Bachelor’s Degree in computer science, numerous years of hands-on exper
 ✅  Skill set
 
 🛰️  JavaScript, HTML, TypeScript, CSS, C++, Java
+
 🛰️  React, Vue, Angular, Next, Nuxt, Nest.js
+
 🛰️  Node, Express.js
+
 🛰️  Laravel, CI, ThinkPHP
+
 🛰️  MySQL, Mongo, PostgreSQL, Firebase, indexedDB
+
 🛰️  Smart Contract, Defi, NFT, Dapp
+
 🛰️  WordPress, Magenta, Shopify
+
 🛰️  Bootstrap, TailwindCSS, SASS, Frontend UI
+
 🛰️  Figma, Adobe XD, Sketch, RWD
+
 🛰️  React Native, Flutter
+
 🛰️  AWS, Microsoft Azure, Google Cloud, SAP
+
 🛰️  Unit Testing, Integration Testing, System testing
 
 <hr />
